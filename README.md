@@ -12,5 +12,7 @@ https://komikcast.me
 Search Manage
 
 | Feature | Type | Value |
+|----|----|----|
 | Title | Text | - |
+| Sort by | Select | A-Z, Update |
 | Genre | Checkbox | Gender Bender |
