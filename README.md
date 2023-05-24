@@ -1,3 +1,4 @@
-# K
+# Komikcast
 
-omikcast
+Language : ID
+Fetch : cloudscraper
